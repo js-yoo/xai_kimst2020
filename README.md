@@ -14,12 +14,10 @@
 
 Model : Resnet18 (pretrained)   
 XAI : Integrated Gradient, SmoothGrad    
-[link keyword][id]
-[id]: URL"Optional Title here"
-그리고 [Captum][captumlink]을 사용했습니다.
-[captumlink]: https://github.com/pytorch/captum "Captum"
+그리고 [Captum](https://github.com/pytorch/captum, "Captum")을 사용했습니다.
+    
    
-   
+      
    
 # Reference
 XAI를 위한 Attribution Method 접근법 분석 및 동향    
