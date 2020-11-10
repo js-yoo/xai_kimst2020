@@ -18,6 +18,6 @@ XAI : Integrated Gradient, SmoothGrad
 
 
 # Reference
-XAI를 위한 Attribution Method 접근법 분석 및 동향 
+/XAI를 위한 Attribution Method 접근법 분석 및 동향 
 Axiomatic Attribution for Deep Networks https://arxiv.org/abs/1703.01365
 SmoothGrad: removing noise by adding noise https://arxiv.org/abs/1706.03825
