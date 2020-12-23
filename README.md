@@ -7,6 +7,7 @@
 
 Model : Resnet18 (pretrained)   
 XAI : Integrated Gradient, SmoothGrad    
+demo에서는 위의 두가지 기법만 다루었지만, 이외의 다른 기법도 가능합니다.
 그리고 [Captum](https://github.com/pytorch/captum)을 사용했습니다.
     
 ## Installation
@@ -31,7 +32,7 @@ pip install captum
 ## Sample Outputs
 ![sample.png](./sample.png)
 
-##Reference
+## Reference
 XAI를 위한 Attribution Method 접근법 분석 및 동향    
 [Axiomatic Attribution for Deep Networks](https://arxiv.org/abs/1703.01365)   
 [SmoothGrad: removing noise by adding noise](https://arxiv.org/abs/1706.03825)   
