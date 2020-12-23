@@ -14,7 +14,7 @@
 
 Model : Resnet18 (pretrained)   
 XAI : Integrated Gradient, SmoothGrad    
-그리고 [Captum](https://github.com/pytorch/captum, "Captum")을 사용했습니다.
+그리고 [Captum](https://github.com/pytorch/captum)을 사용했습니다.
     
    
       
